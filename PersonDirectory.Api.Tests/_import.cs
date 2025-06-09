@@ -1,0 +1,12 @@
+﻿global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Localization;
+global using NSubstitute;
+global using PersonDirectory.Api.Controllers;
+global using PersonDirectory.Application.Commons;
+global using PersonDirectory.Application.DTOs.Request;
+global using PersonDirectory.Application.DTOs.Response;
+global using PersonDirectory.Application.Interfaces;
+global using Shouldly;
+global using PersonDirectory.Domain.Enums;
+global using Microsoft.AspNetCore.Hosting;
